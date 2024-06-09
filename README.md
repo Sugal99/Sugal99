@@ -7,8 +7,8 @@ Here are some stuff im working on right now:
 - 😄 I’m currently attending Frontend Development at Noroff Vocational Online School
 - 💬 Ask me about anything ill try my best to answer questions related to my Github, and if there is anything i can´t answer, then ill let you know :D.
 - 📫 How to reach me: The only way to reach me, as of now is through my discord below or my email..
- My Discord: Sugal Aden – Aug22FT#3482
- Email: Sugal99_norge@hotmail.com
+  - My Discord: Sugal Aden – Aug22FT#3482
+  - Email: Sugal99_norge@hotmail.com
 
 <!--
 **Sugal99/Sugal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
